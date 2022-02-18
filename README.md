@@ -16,10 +16,7 @@ This project has great extent of applicability in the education field, most like
 - Colleges
 - Universities
 
-# Technologies that you used in project
-- MySQL dB
-- Front end: HTML, CSS, JAVA SCRIPT.
-- Back end: Php, MYSQL.
+
  
 
 # Web Pages
